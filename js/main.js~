@@ -1,0 +1,14 @@
+(function(){
+
+    updateTimer();
+    setInterval(function(){updateTimer()},1000);
+    function getFormatedDate()
+    {
+	return (new Date()).toLocaleString();
+    }
+    function updateTimer()
+    {
+	document.getElementById("time-div").innerHTML =
+	    getFormatedDate();//new Date();
+    }
+}());

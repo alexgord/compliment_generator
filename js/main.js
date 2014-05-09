@@ -17,7 +17,7 @@
 		"angel", "cutie pie", "daisy", "hottie", "stud muffin",
 		"idol", "sweetheart", "genius", "star", "superstar",
 		"rock star", "winner", "god", "inspiration", "superhero",
-		"diety", "success", "example", "leader", "team player",
+		"deity", "success", "example", "leader", "team player",
 		"thinker", "companion", "learner", "soul", "human",
 		"role model", "achiever", "asset", "human", "being",
 		"wizard"];
